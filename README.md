@@ -8,6 +8,8 @@ Installations required:-
 4. Pandas
 5. Numpy
 6. Jupyter Notebook
+7. Plotly library (Install using pip)
+8. Matplotlib library
 
 How to run?
 
